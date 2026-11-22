@@ -1,0 +1,13 @@
+# 文档扫描与 OCR · GitHub 开源安卓应用
+
+[返回 摄影、图片与创作](README.md) · [返回总目录](../../README.md)
+
+本页 5 款。点图标打开下载或发布页，有实际界面图的项目另有 **大图** 链接。
+
+| 图片 | 应用与用途 |
+| :---: | --- |
+| <a href="https://f-droid.org/packages/de.astubenbord.paperless_mobile/"><img src="https://f-droid.org/repo/de.astubenbord.paperless_mobile/en-US/icon_0qLoQSBi9IGY8QIqw5CPaILHWwAHplIBBogVQwnIg4o=.png" width="46" alt="Paperless Mobile 应用图标"></a> | **Paperless Mobile**<br>Paperless-ngx 的移动文档客户端<br>已有扫描归档服务器时适合从手机查历史文件<br>[GitHub](https://github.com/astubenbord/paperless-mobile) · [F-Droid](https://f-droid.org/packages/de.astubenbord.paperless_mobile/) · [大图](https://f-droid.org/repo/de.astubenbord.paperless_mobile/en-US/phoneScreenshots/1_en-US.png) |
+| <a href="https://f-droid.org/packages/net.gmartin.paperlessngx_uploader/"><img src="https://f-droid.org/repo/net.gmartin.paperlessngx_uploader/en-US/icon_2fG9ZoR3VaA4oAcHewnPCq4XYnaOdWWV9jy_2t2d8Co=.png" width="46" alt="Paperless NGX Uploader 应用图标"></a> | **Paperless NGX Uploader**<br>从系统分享菜单把文件送入 Paperless-ngx<br>拍照或下载文档后可直接入自己的归档服务<br>[GitHub](https://github.com/gmag11/Paperless_ngx_uploader) · [F-Droid](https://f-droid.org/packages/net.gmartin.paperlessngx_uploader/) |
+| <a href="https://f-droid.org/packages/dev.davidv.translator/"><img src="https://f-droid.org/repo/dev.davidv.translator/en-US/icon_GEAckWVv4ZVJ9tzqlXEm1CJ2LgDy-mhWQipIBE5m4P8=.png" width="46" alt="Offline Translator 应用图标"></a> | **Offline Translator**<br>On-device translation of text, images and pdf/odt files, with TTS<br><sub>PDF · ODT</sub><br>[GitHub](https://github.com/DavidVentura/offline-translator) · [F-Droid](https://f-droid.org/packages/dev.davidv.translator/) |
+| <a href="https://f-droid.org/packages/com.akslabs.circletosearch/"><img src="https://f-droid.org/repo/com.akslabs.circletosearch/en-US/icon_r_u8aMdP4klqdgjcNDYbO28aDPPHvhDCT08y92oyH_A=.png" width="46" alt="CircleToSearch App 应用图标"></a> | **CircleToSearch App**<br>CircleToSearch with multi search engine support for all android<br>[GitHub](https://github.com/AKS-Labs/CircleToSearch) · [F-Droid](https://f-droid.org/packages/com.akslabs.circletosearch/) |
+| <a href="https://f-droid.org/packages/com.paperlessnative.mobile/"><img src="https://f-droid.org/repo/com.paperlessnative.mobile/en-US/icon_8kv9HQ-fdGqzvp7o6AYTPhGFyNANHGnGqVDjTu7levM=.png" width="46" alt="Paperless Native 应用图标"></a> | **Paperless Native**<br>Mobile client for your self-hosted Paperless-ngx document server<br><sub>自建服务</sub><br>[GitHub](https://github.com/afoni95/react-native-paperless) · [F-Droid](https://f-droid.org/packages/com.paperlessnative.mobile/) |

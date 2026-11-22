@@ -1,0 +1,17 @@
+# 图标包 · GitHub 开源安卓应用
+
+[返回 桌面、刷机与系统工具](README.md) · [返回总目录](../../README.md)
+
+本页 9 款。点图标打开下载或发布页，有实际界面图的项目另有 **大图** 链接。
+
+| 图片 | 应用与用途 |
+| :---: | --- |
+| <a href="https://f-droid.org/packages/com.donnnno.arcticons/"><img src="https://f-droid.org/repo/com.donnnno.arcticons/en-US/icon_JihEdjaYKIdDjLJ8bn2d_NecBrI7KmFuhrhCdF1gEgw=.png" width="46" alt="Arcticons 应用图标"></a> | **Arcticons**<br>A monotone line-based icon pack for dark themed setups<br>[GitHub](https://github.com/Arcticons-Team/Arcticons) · [F-Droid](https://f-droid.org/packages/com.donnnno.arcticons/) |
+| <a href="https://f-droid.org/packages/website.leifs.delta.foss/"><img src="https://f-droid.org/repo/website.leifs.delta.foss/en-US/icon_TIvE5SwAV7-DtiN6GSUekYW2AKQS6K7lvtqwNqvsdsE=.png" width="46" alt="Delta Icon Pack 应用图标"></a> | **Delta Icon Pack**<br>Minimalistic pastel icon pack for Android<br>[GitHub](https://github.com/Delta-Icons/android) · [F-Droid](https://f-droid.org/packages/website.leifs.delta.foss/) |
+| <a href="https://f-droid.org/packages/org.materialos.icons/"><img src="https://f-droid.org/repo/icons/org.materialos.icons.10.png" width="46" alt="MaterialOS 应用图标"></a> | **MaterialOS**<br>Material Design icons for your homescreen<br>[GitHub](https://github.com/materialos/android-icon-pack) · [F-Droid](https://f-droid.org/packages/org.materialos.icons/) |
+| <a href="https://f-droid.org/packages/com.froxot.cuscon.foss/"><img src="https://f-droid.org/repo/com.froxot.cuscon.foss/en-US/icon_z_3TFjp61mPLG2xmrNnQzX54aQDtcQrM5crwFuOp4dc=.png" width="46" alt="Cuscon 应用图标"></a> | **Cuscon**<br>This icon pack adds variety and dynamism to your Home screen<br>[GitHub](https://github.com/MiepHD/cuscon) · [F-Droid](https://f-droid.org/packages/com.froxot.cuscon.foss/) |
+| <a href="https://f-droid.org/packages/me.iacn.mbestyle/"><img src="https://f-droid.org/repo/icons/me.iacn.mbestyle.27.png" width="46" alt="MBE Style 应用图标"></a> | **MBE Style**<br>A fun icon pack<br>[GitHub](https://github.com/iAcn/MBEStyle) · [F-Droid](https://f-droid.org/packages/me.iacn.mbestyle/) |
+| <a href="https://f-droid.org/packages/dev.renkinProject.renkin/"><img src="https://f-droid.org/repo/dev.renkinProject.renkin/en-US/icon_QdTn_cwfWwT4PQWIuTMMIxPigLHQ0GQJ5_Hav46uYAw=.png" width="46" alt="Renkin 应用图标"></a> | **Renkin**<br>Make your own icon pack, on your phone<br>[GitHub](https://github.com/renkindevbugs/Renkin) · [F-Droid](https://f-droid.org/packages/dev.renkinProject.renkin/) |
+| <a href="https://f-droid.org/packages/org.baitmooth.snow/"><img src="https://f-droid.org/repo/org.baitmooth.snow/en-US/icon_iuWwCFSE1qyaUQa9CacrxzcbO_O-Rn8hAu95XJNRjnQ=.png" width="46" alt="Snow 应用图标"></a> | **Snow**<br>A monotone icon pack<br>[GitHub](https://github.com/baitmooth/snow) · [F-Droid](https://f-droid.org/packages/org.baitmooth.snow/) |
+| <a href="https://f-droid.org/packages/com.mookie.circo/"><img src="https://f-droid.org/repo/icons/com.mookie.circo.23.png" width="46" alt="Circo 应用图标"></a> | **Circo**<br>Simple colorful icon pack<br>[GitHub](https://github.com/MalcolmScruggs/CircoIconPack) · [F-Droid](https://f-droid.org/packages/com.mookie.circo/) |
+| <a href="https://f-droid.org/packages/dev.appstract.iconpack/"><img src="https://f-droid.org/repo/dev.appstract.iconpack/en-US/icon_WxvZqJsrxYyAF6bR-eDUPd1ITQ_1S3NsnBEnIJij_3g=.png" width="46" alt="Appstract Icon Pack 应用图标"></a> | **Appstract Icon Pack**<br>Abstract icon pack with 590 hand-designed icons<br>[GitHub](https://github.com/yangchoo/Appstract) · [F-Droid](https://f-droid.org/packages/dev.appstract.iconpack/) |

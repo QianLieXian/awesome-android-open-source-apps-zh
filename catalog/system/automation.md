@@ -1,0 +1,14 @@
+# 自动化、按键与手势 · GitHub 开源安卓应用
+
+[返回 桌面、刷机与系统工具](README.md) · [返回总目录](../../README.md)
+
+本页 6 款。点图标打开下载或发布页，有实际界面图的项目另有 **大图** 链接。
+
+| 图片 | 应用与用途 |
+| :---: | --- |
+| <a href="https://f-droid.org/packages/com.buzbuz.smartautoclicker/"><img src="https://f-droid.org/repo/com.buzbuz.smartautoclicker/en-US/icon_z13taPHqDPZUJ6Cmi4D4-mJ7jZUDODEPNZobLcArC-w=.png" width="46" alt="Klick&#x27;r · Smart AutoClicker 应用图标"></a> | **Klick'r · Smart AutoClicker**<br>根据屏幕上出现的画面条件自动触发点击。<br>适合自己设备上做固定界面的重复操作，先给规则设好触发范围。<br>[GitHub](https://github.com/Nain57/Smart-AutoClicker) · [F-Droid](https://f-droid.org/packages/com.buzbuz.smartautoclicker/) |
+| <a href="https://f-droid.org/packages/io.github.sds100.keymapper/"><img src="https://f-droid.org/repo/io.github.sds100.keymapper/en-US/icon_mCmax5NgCl_d3RGUbzy9is4BgNEB_8c4F3kgUy6tQp0=.png" width="46" alt="Key Mapper 应用图标"></a> | **Key Mapper**<br>重新绑定安卓设备的音量键、外接键盘等输入，并关联快捷动作。<br>想用按键快速启动常用功能，或给外接设备设置操作习惯时值得试。<br>[GitHub](https://github.com/keymapperorg/KeyMapper) · [F-Droid](https://f-droid.org/packages/io.github.sds100.keymapper/) · [大图](https://f-droid.org/repo/io.github.sds100.keymapper/en-US/phoneScreenshots/1.png) |
+| <a href="https://f-droid.org/packages/com.termux.tasker/"><img src="https://f-droid.org/repo/com.termux.tasker/en-US/icon_7jMZ7XD80oeucmGEaTwktIRZexLtGWvJfKdVD6Wu2SI=.png" width="46" alt="Termux:Tasker 应用图标"></a> | **Termux:Tasker**<br>Tasker plug-in to run Termux scripts from Tasker<br>[GitHub](https://github.com/termux/termux-tasker) · [F-Droid](https://f-droid.org/packages/com.termux.tasker/) |
+| <a href="https://f-droid.org/packages/io.github.luantak.fokuslauncher/"><img src="https://f-droid.org/repo/io.github.luantak.fokuslauncher/en-US/icon_VtIrhx3eXBtWwCkMC-8FgdwJZJ65KpdGrLtcySoDomg=.png" width="46" alt="Fokus Launcher 应用图标"></a> | **Fokus Launcher**<br>Minimal launcher with clock, weather, fast app search, and gesture navigation<br>[GitHub](https://github.com/luantak/FokusLauncher) · [F-Droid](https://f-droid.org/packages/io.github.luantak.fokuslauncher/) |
+| <a href="https://f-droid.org/packages/net.canvoki.vokibot/"><img src="https://f-droid.org/repo/net.canvoki.vokibot/en-US/icon_X87z5OOX_9zpuRpnv4Fgua0tzt8Y3Bt_V3VvD4TIQKQ=.png" width="46" alt="Voki Bot 应用图标"></a> | **Voki Bot**<br>Android automation tool<br>[GitHub](https://github.com/vokimon/vokibot) · [F-Droid](https://f-droid.org/packages/net.canvoki.vokibot/) |
+| <a href="https://f-droid.org/packages/io.github.vibhor1102.macrion/"><img src="https://f-droid.org/repo/io.github.vibhor1102.macrion/en-US/icon_MeJ8iUwo_BDxU41SWmhT82PrOif5Xr4SQXj6uNFG5jg=.png" width="46" alt="Macrion 应用图标"></a> | **Macrion**<br>Screen-aware Android automation, independently developed from Klick'r<br>[GitHub](https://github.com/vibhor1102/Macrion) · [F-Droid](https://f-droid.org/packages/io.github.vibhor1102.macrion/) |
